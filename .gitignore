@@ -7,4 +7,3 @@ include/
 lib/
 src/
 cache/
-cache/*
