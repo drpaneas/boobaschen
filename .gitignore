@@ -1,8 +1,0 @@
-*.pid
-*.pyc
-.Python
-output/
-bin/
-include/
-lib/
-src/
